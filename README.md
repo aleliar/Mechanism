@@ -1,8 +1,8 @@
 # Mechanism
-1.Mechanism for CFD
+1.Mechanism for Combustor-CFD
 
-2.n-Dodecane is a 54-species mechanism from others,which has format problems used by OpenFOAM.
+2.n-Dodecane is a 54-species mechanism from Lu, which has format problems for OpenFOAM.
 
 3.Formula of fuel is NC12H26 and methylene is pronounced as CH2*.
 
-4.n-Dodecane-Corrected has been corrected,the formula of fuel is C12H26 and methylene is pronounced as CH2Y.
+4.In n-Dodecane-Corrected, the formula of fuel is C12H26 and methylene is pronounced as CH2Y.
